@@ -19,11 +19,8 @@
    <a target="_blank" href="https://github.com/rachids"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
    <a target="_blank" href="https://stackoverflow.com/users/1919845/rachids"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="StackOverflow"></a>
    <a target="_blank" href="https://dev.to/rachids"><img src="https://img.icons8.com/doodle/1x/typewriter-with-paper.png" alt="Dev.to"></a>
-   <a target="_blank" href="https://www.youtube.com/@rachids"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube"></a>
-   <a target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf"><img src="https://img.icons8.com/doodle/1x/twitch.png" alt="Twitch"></a>
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rachids&label=Profile%20views&color=0A2265&style=flat" alt="rachids" />
-  <a href="https://twitter.com/rachid_in" target="blank"><img src="https://img.shields.io/twitter/follow/rachid_in?logo=twitter&style=flat-square" alt="Follow @rachid_in on Twitter" /></a> 
 </p>
